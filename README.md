@@ -1,2 +1,3 @@
-# kaggle_practice
-test
+# how to use markdown
+## insert a picture
+
