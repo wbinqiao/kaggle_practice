@@ -1,3 +1,3 @@
 # how to use markdown
 ## insert a picture
-![settings](https://github.com/wbinqiao/kaggle_practice/master/steps.png)
+![1](https://github.com/wbinqiao/kaggle_practice/steps.png)
